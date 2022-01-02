@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.wowwwww!
 2021-12-30 revised here！heyday！ 再次修改！
 Git has a mutable index called stage.
 Git tracks changes of files.
+test lines 2022.1.2 come on!!!
